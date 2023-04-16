@@ -50,7 +50,7 @@
 
 - [Сектор - Добыча и переработка](https://github.com/ANT050/Stocks_List/blob/main/China/Mining_and_processing.md "Перейти к списку")
 - [Сектор - Здоровье](https://github.com/ANT050/Stocks_List/blob/main/China/Health.md "Перейти к списку")
-- Сектор - Недвижимость
+- [Сектор - Недвижимость](https://github.com/ANT050/Stocks_List/blob/main/China/Realty.md "Перейти к списку")
 - Сектор - Нефть и газ
 - Сектор - Потребительский сектор
 - Сектор - Товары и услуги вторичного спроса
