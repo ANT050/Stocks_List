@@ -13,6 +13,8 @@
 
 ---
 
+[Вернуться на главную страницу](https://github.com/ANT050/Stocks_List "Перейти на главную страницу")
+
 [01]: https://investcab.ru/ru/inmarket/torg_instruments/card.aspx?issue=9089 "Перейти для просмотра полной информации"
 
 [02]: https://investcab.ru/ru/inmarket/torg_instruments/card.aspx?issue=9000 "Перейти для просмотра полной информации"
