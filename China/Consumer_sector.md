@@ -19,7 +19,7 @@
 [02]: https://investcab.ru/ru/inmarket/torg_instruments/card.aspx?issue=7474 "Перейти для просмотра полной информации"
 [03]: https://investcab.ru/ru/inmarket/torg_instruments/card.aspx?issue=8856 "Перейти для просмотра полной информации"
 [04]: https://investcab.ru/ru/inmarket/torg_instruments/card.aspx?issue=8998 "Перейти для просмотра полной информации"
-[05]: https://investcab.ru/ru/inmarket/torg_instruments/card.aspx?issue=8998 "Перейти для просмотра полной информации"
+[05]: https://investcab.ru/ru/inmarket/torg_instruments/card.aspx?issue=9005 "Перейти для просмотра полной информации"
 [06]: https://investcab.ru/ru/inmarket/torg_instruments/card.aspx?issue=8859 "Перейти для просмотра полной информации"
 [07]: https://investcab.ru/ru/inmarket/torg_instruments/card.aspx?issue=8870 "Перейти для просмотра полной информации"
 [08]: https://investcab.ru/ru/inmarket/torg_instruments/card.aspx?issue=9004 "Перейти для просмотра полной информации"
