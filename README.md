@@ -52,7 +52,7 @@
 - [Сектор - Здоровье](https://github.com/ANT050/Stocks_List/blob/main/China/Health.md "Перейти к списку")
 - [Сектор - Недвижимость](https://github.com/ANT050/Stocks_List/blob/main/China/Realty.md "Перейти к списку")
 - [Сектор - Нефть и газ](https://github.com/ANT050/Stocks_List/blob/main/China/Oil_and_gas.md "Перейти к списку")
-- [Сектор - Потребительский сектор](https://github.com/ANT050/Stocks_List/blob/main/China/Oil_and_gas.md "Перейти к списку")
+- [Сектор - Потребительский сектор](https://github.com/ANT050/Stocks_List/blob/main/China/Consumer_sector.md "Перейти к списку")
 - Сектор - Товары и услуги вторичного спроса
 - Сектор - Транспорт и машиностроение
 - Сектор - Финансы
