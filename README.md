@@ -54,7 +54,7 @@
 - [Сектор - Нефть и газ](https://github.com/ANT050/Stocks_List/blob/main/China/Oil_and_gas.md "Перейти к списку")
 - [Сектор - Потребительский сектор](https://github.com/ANT050/Stocks_List/blob/main/China/Consumer_sector.md "Перейти к списку")
 - [Сектор - Товары и услуги вторичного спроса](https://github.com/ANT050/Stocks_List/blob/main/China/Secondary_demand_goods_and_services.md "Перейти к списку")
-- Сектор - Транспорт и машиностроение
+- [Сектор - Транспорт и машиностроение](https://github.com/ANT050/Stocks_List/blob/main/China/Transport_and_mechanical_engineering.md "Перейти к списку")
 - Сектор - Финансы
 - Сектор - Энергетика
 - Сектор - IT
