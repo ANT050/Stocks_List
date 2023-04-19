@@ -56,7 +56,7 @@
 - [Сектор - Товары и услуги вторичного спроса](https://github.com/ANT050/Stocks_List/blob/main/China/Secondary_demand_goods_and_services.md "Перейти к списку")
 - [Сектор - Транспорт и машиностроение](https://github.com/ANT050/Stocks_List/blob/main/China/Transport_and_mechanical_engineering.md "Перейти к списку")
 - Сектор - Финансы
-- Сектор - Энергетика
+- [Сектор - Энергетика](https://github.com/ANT050/Stocks_List/blob/main/China/Energy.md "Перейти к списку")
 - Сектор - IT
 
 ---
