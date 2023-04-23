@@ -42,4 +42,4 @@
 [15]: https://investcab.ru/ru/inmarket/torg_instruments/card.aspx?issue=9084 "Перейти для просмотра полной информации"
 [16]: https://investcab.ru/ru/inmarket/torg_instruments/card.aspx?issue=7459 "Перейти для просмотра полной информации"
 [17]: https://investcab.ru/ru/inmarket/torg_instruments/card.aspx?issue=7465 "Перейти для просмотра полной информации"
-[18]: https://investcab.ru/ru/inmarket/torg_instruments/card.aspx?issue=7465 "Перейти для просмотра полной информации"
+[18]: https://investcab.ru/ru/inmarket/torg_instruments/card.aspx?issue=9080 "Перейти для просмотра полной информации"
