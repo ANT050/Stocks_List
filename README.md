@@ -57,6 +57,6 @@
 - [Сектор - Транспорт и машиностроение](https://github.com/ANT050/Stocks_List/blob/main/China/Transport_and_mechanical_engineering.md "Перейти к списку")
 - [Сектор - Финансы](https://github.com/ANT050/Stocks_List/blob/main/China/Finance.md "Перейти к списку")
 - [Сектор - Энергетика](https://github.com/ANT050/Stocks_List/blob/main/China/Energy.md "Перейти к списку")
-- Сектор - IT
+- [Сектор - IT]( "Перейти к списку")
 
 ---
